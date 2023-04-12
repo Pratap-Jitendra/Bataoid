@@ -32,7 +32,7 @@
   color: white;
   font-size: 120%;
   font-weight: bold;
-  width: 70%;
+  width: 90%;
 
   line-height: 1em;
   display: flex;
@@ -69,7 +69,7 @@ a {
   visibility: hidden;
   opacity: 0;
   top: 100%;
-  background-color: brown;
+  background:transparent;
 }
 
 .navbar .dropdown li {
@@ -135,15 +135,15 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 90%;
+  gap: 100%;
   position: absolute;
-  top: 80%;
+  top: 85%;
   left: 2px;
 
 }
 
 .offer button {
-  background-color: darkred;
+  background-color:rebeccapurple;
   padding: 1em;
   color: white;
   border-radius: 50%;
@@ -169,7 +169,7 @@ a {
   border-top-right-radius: 25px;
   border-bottom-left-radius: 25px;
   width: 95%;
-  background-color: blue;
+  background-color:skyblue;
   border: 2px solid white;
 }
 
@@ -184,7 +184,7 @@ a {
 
 .formpage1 {
   width: 100%;
-  background-color: darkblue;
+  background-color:goldenrod;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -384,7 +384,7 @@ h4 {
   }
 
   .navbar ul li img {
-    width: 65%;
+    width: 52%;
     line-height: 10px;
   }
 
