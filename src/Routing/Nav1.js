@@ -10,7 +10,7 @@ const Nav1 = () => {
   return (
     <div>
       <Nav />
-      <Hero title="No Dairy No Pen" />
+      <Hero title="New Scheme" />
       <Home />
       <Footer />
     </div>

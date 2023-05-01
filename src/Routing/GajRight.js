@@ -8,7 +8,7 @@ const GajRight = () => {
   return (
     <div>
       <Nav />
-      <Hero title="No Dairy No Pen" />
+      <Hero title="Meeing online" />
       <Batao />
       <Footer />
     </div>

@@ -6,8 +6,8 @@ const Hero = (props) => {
       <img src="Image/hero2.webp" alt="banner"/>
       <h3>{props.title}</h3>
       <div className='offer'>
-      <button>Reward</button>
-      <button>Offer</button>
+      <button>BEDSHEET</button>
+      <button>TSHIRTS</button>
 
       </div>
     </div>

@@ -65,7 +65,7 @@ a {
   align-items: center;
   position: absolute;
   width: 25%;
-  height: 20vh;
+  height: 10vh;
   visibility: hidden;
   opacity: 0;
   top: 100%;
@@ -426,6 +426,11 @@ h4 {
     height: 30vh;
     text-align: center;
 
+  }
+  .navimg
+  {
+    margin-top: 18%;
+    height:54%;
   }
 
 }
